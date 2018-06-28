@@ -3,12 +3,12 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define mc = Character("Kat")
-define b = Character("Bubblegum")
-define r = Character("Ryakuma")
+define mc = Character("Kat", color="#FFFFFF")
+define b = Character("Holly", color="#50C878")
+define r = Character("Winston", color="#1200ff")
 define k = Character("Kezbit")
-define e = Character("Ellwood")
-define p = Character("Puck")
+define e = Character("Ellwood", color="#CCCCFF")
+define p = Character("Puck", color="#A52A2A" )
 
 # The game starts here.
 
